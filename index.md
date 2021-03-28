@@ -4,13 +4,13 @@ title: Sarah M. Larson's CV
 ---
 # Sarah M. Larson
 <br/>
-MD-PhD Student, University of California Los Angeles
+Incoming MD-PhD Student at The University of California, Los Angeles
 
 David Geffen School of Medicine at UCLA<br/>
 10833 Le Conte Avenue<br/>
 Los Angeles, CA 90095, USA<br/>
 
-<a href="mailto:smlarson@lse.ac.uk">smlarson@lse.ac.uk</a>
+<a href="mailto:s.m.larson@lse.ac.uk">s.m.larson@lse.ac.uk</a>
 
 <div id="webaddress">
   <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a> -   
@@ -18,60 +18,65 @@ Los Angeles, CA 90095, USA<br/>
   <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> -->
   <!-- <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> - -->
   <!-- <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> -  -->
-  <a href="https://github.com/sarahmarielarson"><i class="fab fa-github"></i> sarahmarielarson</a> - 
   <!-- <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a> -->
+  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0461-8938</a></div>
 </div>
 
 ## Summary
 
-TODO: write a summary.
+Incoming MD-PhD student, the David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
+Current MSc student, the London School of Economics and Political Science, Department of International Development
 
 ## Education
 
-TODO: other education
+`Matriculating June 2021`
+**MD-PhD**, *University of California, Los Angeles*, Los Angeles, CA, USA
 
-`09/2014 - 06/2018`
-**B.A. Economics and History Double Major with Honors, Statistics Minor**, *University of Chicago*, Chicago, IL, USA.
-- Thesis: *THESIS TITLE*
-- With ADVISOR
+`Sept 2020 - Present`
+**MSc Health and International Development**, *London School of Economics and Political Science*, London, UK
 
-<!--
+`Sept 2014 - June 2018`
+**BA Economics and History Double Major with Honors, Statistics Minor**, *University of Chicago*, Chicago, IL, USA
+
+
+
 
 ## Research Experience
 
-`08/2020 - present`
-**Research assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Mathias Unberath](https://mathiasunberath.github.io), [Gregory D. Hager](https://www.cs.jhu.edu/~hager).
+`Sept 2019 - June 2020`
+**Clinical Research Assistant**, *The Stevens Lab, Johns Hopkins University School of Medicine*, Baltimore, MD, USA.
+- With Professor [Robert Stevens](https://www.hopkinsmedicine.org/research/labs/robert-stevens-lab)
 
-`08/2019 - 06/2020`
-**Research Assistant**, *Laboratory for Computational Sensing and Robotics, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Gregory D. Hager](https://www.cs.jhu.edu/~hager), [Mathias
-  Unberath](https://mathiasunberath.github.io), and [Russel Taylor](https://www.cs.jhu.edu/~rht/).
-- Recipient: LCSR Fellowship for Outstanding Incoming Ph.D. Students.
+`March 2016 - Sept 2016`
+**Economic Research Assistant**, *The Becker Friedman Institute, The University of Chicago*, Chicago, IL, USA.
+- With Professor [John List](https://voices.uchicago.edu/jlist/)
 
-`03/2018 - 08/2019`
-**Research assistant**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA.
-- With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
+
  -->
 
 <!-- - Investigated object detection in image-based experiments for condensed matter physics. -->
 <!--   - Honors Thesis: "Starting from Scratch: Deep Learning for Novel Scientific Image Analysis" -->
 <!--   - Code: [github.com/benjamindkilleen/artifice](https://github.com/benjamindkilleen/artifice) -->
   
-  <!--
+ 
 ## Professional Experience
 
-`06/2020 - 07/2020`
-**Computer Vision / AI Intern**, *Applied Research, Intuitive Surgical Inc.*, Sunnyvale, CA, USA.
-- With [Omid Mohareri](https://scholar.google.com/citations?user=-t_yjBIAAAAJ&hl=en).
+`Oct 2020 - March 2021`
+**Student Consultant**, *Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, New York, NY, USA
+- With Dr. [Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone)
 
-`06/2018 - 08/2018`
-**Software Development Intern**, *Cognitive Computing, Epic Systems*, Verona, WI, USA.
+` July 2018 - June 2019`
+**Research Associate**, *Research Division, Federal Reserve Bank*, Minneapolis, MN, USA
+- With Dr. [Thomas D. Tallarini](https://www.minneapolisfed.org/people/thomas-d-tallarini)
 
-`06/2017 - 08/2017`
-**Research Intern**, *IBM Research - Almaden*, San Jose, CA, USA.
-- With [Geoffrey Burr](https://researcher.watson.ibm.com/researcher/view.php?person=us-gwburr).
+`July 2017 - Sept 2017`
+**Research Intern**, *UChicago Urban Labs*, New York, NY, USA
+- With Dr. [Aaron Chhalfin](http://achalfin.weebly.com/)
 
+`June 2017 - July 2017`
+**Editorial Intern**, *HarperCollins Publishers*, New York, NY, USA
+
+<!--
 ## Selected Honors
 
 `05/2020`
@@ -89,27 +94,25 @@ TODO: other education
 - With [Michael Peven](https://scholar.google.com/citations?user=QQhzlS4AAAAJ&hl=en), Shaoyan Pan,
   and Matthew Pittman.
 
-## Publications
+  -->
 
+<!--
+## Publications
+<!--
 My publication list is also available on [Google
 Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). Asterisk (\*) indicates equal
 contribution.
 
 ### Peer-reviewed Journal Articles
 
-`J-2` 
-A. Hundt, **B. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
+`J-1` 
+J. van, **S. Larson**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
 Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and
 Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi:
 [10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
 
-`J-1` 
-S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler,
-M. Giordano, M. Bodini, N. Farinha, **B. Killeen**, C. Cheng, Y. Jaoudi,
-G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue
-memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
-[10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
 
+<!--
 ### Peer-reviewed Conference Papers
 
 `C-3`
@@ -174,15 +177,15 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 ### Assistant Teaching
 
-<!-- `03/2019 - 06/2019` -->
-<!-- **Machine Learning and Large Scale Data Analysis**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA -->
-<!-- - With Prof. [Yali Amit](https://stat.uchicago.edu/people/profile/yali-amit/). -->
+`March 2017 - June 2017`
+ **Introductory Economics**, *Department of Economics, University of Chicago*, Chicago, IL, USA
+With Prof. [Steven Levitt](https://voices.uchicago.edu/levitt/) and Prof. [John List](https://voices.uchicago.edu/jlist/)
 <!-- - Wrote supplementary course material and held weekly lab sessions. -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
 
 
-### Grading
+<!--### Grading-->
 
 <!-- `01/2019 - 08/2019` -->
 <!-- *Department of Computer Science, University of Chicago*, Chicago, IL, USA -->
@@ -202,7 +205,7 @@ Hopkins University Hub. The Johns Hopkins University, October
 <!-- `12/2019 - 03/2020` -->
 <!-- - **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA. -->
 
-<!-- ## Service -->
+## Service
 
 <!-- `2020 - present` -->
 <!-- **Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA. -->
@@ -221,27 +224,28 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 ## Selected Coursework
 
-<!-- ### Graduate -->
+### Graduate
 
-<!-- - Vision as Bayesian Inference -->
-<!-- - Reliable Software Systems -->
-<!-- - Theory of Computation -->
-<!-- - Parallel Programming -->
+- Applied Health Econometrics
+- Global Health Challenges: Epidemics, Disease, and Public Health Response
+- Population, Health and Development: Evidence and Projections
+- Machine Learning for Public Policy 
 <!-- - Nonlinear Optimization II -->
 <!-- - Computer Integrated Surgery II -->
 <!-- - Computer Integrated Surgery I  -->
 <!-- - Deep Learning -->
 
-<!-- ### Undergraduate -->
+### Undergraduate
 
-<!-- `GPA: 3.81` -->
-<!-- - Unsupervised Learning\* -->
-<!-- - Computer Vision -->
-<!-- - Machine Learning and Large Scale Data Analysis -->
-<!-- - Operating Systems -->
-<!-- - Honors Combinatorics -->
-<!-- - Honors Algorithms -->
-<!-- - Honors Discrete Mathematics -->
+`GPA: 3.84`
+- Applied Regression Analysis 
+- Analysis of Categorical Data
+- Analysis of Collective Decision-Making
+- Econometrics
+- Biochemistry
+- Hisotry of Science
+- History of Medicine
+- History of Statistics
 <!-- - Scientific Visualization -->
 <!-- - Programming Languages -->
 <!-- - Networks and Distributed Systems -->
@@ -259,11 +263,11 @@ Hopkins University Hub. The Johns Hopkins University, October
 <!-- `2020 - present` -->
 <!-- - IEEE Graduate Student Member -->
 
-## Extracurricular
+<!-- ## Extracurricular
 
-I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://sarahmarielarson.com/artwork)
+I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://sarahmarielarson.com/artwork) -->
 
-## Metadata
+<!--## Metadata
 
 This document is available
 - \- online: [sarahmarielarson.com/smlarson-cv](https://sarahmarielarson.com/smlarson-cv/).
