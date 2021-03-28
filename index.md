@@ -1,45 +1,41 @@
 ---
 layout: cv
-title: Benjamin D. Killeen's CV
+title: Sarah M. Larson's CV
 ---
-# Benjamin D. Killeen
+# Sarah M. Larson
 <br/>
-Ph.D. Student, Johns Hopkins University
+MD-PhD Student, University of California Los Angeles
 
-Department of Computer Science<br/>
-3400 N Charles St<br/>
-Baltimore, MD 21218, USA<br/>
+David Geffen School of Medicine at UCLA<br/>
+10833 Le Conte Avenue<br/>
+Los Angeles, CA 90095, USA<br/>
 
-<a href="mailto:killeen@jhu.edu">killeen@jhu.edu</a>
+<a href="mailto:smlarson@lse.ac.uk">smlarson@lse.ac.uk</a>
 
 <div id="webaddress">
-  <a href="https://benjamindkilleen.com"><i class="fas fa-home"></i> benjamindkilleen.com</a> -   
-  <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> -
-  <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/>
-  <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> -
-  <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> - 
-  <a href="https://github.com/benjamindkilleen"><i class="fab fa-github"></i> benjamindkilleen</a> - 
-  <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a>
+  <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a> -   
+  <!-- <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> - -->
+  <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> -->
+  <!-- <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> - -->
+  <!-- <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> -  -->
+  <a href="https://github.com/sarahmarielarson"><i class="fab fa-github"></i> sarahmarielarson</a> - 
+  <!-- <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a> -->
 </div>
 
 ## Summary
 
-A Ph.D. Student at Johns Hopkins University, I am interested in intelligent surgical systems based
-on explorative computer vision and deep reinforcement learning that directly improve patient
-outcomes. I am a member of the Advanced Robotics and Computationally Augmented Environments
-([ARCADE](https://arcade.cs.jhu.edu/)) research group and the Computational Interaction and
-Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)).
+TODO: write a summary.
 
 ## Education
 
-`08/2019 - present`
-**Ph.D., Computer Science**, *Johns Hopkins University*, Baltimore, MD, USA.
-- With [Mathias Unberath](https://mathiasunberath.github.io/) and [Gregory D. Hager](http://www.cs.jhu.edu/hager/).
+TODO: other education
 
-`09/2015 - 06/2019`
-**B.A., Computer Science with Honors (Physics Minor)**, *University of Chicago*, Chicago, IL, USA.
-- Thesis: *Starting from Scratch: Deep Learning for Novel Scientific Image Analysis*
-- With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
+`09/2014 - 06/2018`
+**B.A. Economics and History Double Major with Honors, Statistics Minor**, *University of Chicago*, Chicago, IL, USA.
+- Thesis: *THESIS TITLE*
+- With ADVISOR
+
+<!--
 
 ## Research Experience
 
@@ -56,11 +52,13 @@ Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)).
 `03/2018 - 08/2019`
 **Research assistant**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA.
 - With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
+ -->
 
 <!-- - Investigated object detection in image-based experiments for condensed matter physics. -->
 <!--   - Honors Thesis: "Starting from Scratch: Deep Learning for Novel Scientific Image Analysis" -->
 <!--   - Code: [github.com/benjamindkilleen/artifice](https://github.com/benjamindkilleen/artifice) -->
   
+  <!--
 ## Professional Experience
 
 `06/2020 - 07/2020`
@@ -157,7 +155,7 @@ Accessed November 26, 2020. [golosameriki.com/a/detali/5671254.html](https://www
 
 BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October
 30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279).
-
+-->
 <!-- Rosso, Cami. **"New AI Trains Robots like Dogs."** *Psychology Today*. October 28, 2020. Accessed -->
 <!-- October 28, 2020. -->
 <!-- [psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs](https://www.psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs). -->
@@ -165,125 +163,111 @@ BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. 
 <!-- Heater, Brian. **"Teaching Robots through Positive Reinforcement."** *TechCrunch*. October -->
 <!-- 26, 2020. Accessed October -->
 <!-- 28, 2020. [techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/](https://techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/). -->
-  
+<!--
 Rosen, Jill. **"Dog Training Methods Help JHU Teach Robots to Learn New Tricks."** The Johns
 Hopkins University Hub. The Johns Hopkins University, October
 26, 2020. [hub.jhu.edu/2020/10/26/positive-reinforcementfor-robots](https://hub.jhu.edu/2020/10/26/positive-reinforcementfor-robots/).
 
 ## Teaching
-
+-->
 <!-- Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel -->
 
 ### Assistant Teaching
 
-`03/2019 - 06/2019`
-**Machine Learning and Large Scale Data Analysis**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA
-- With Prof. [Yali Amit](https://stat.uchicago.edu/people/profile/yali-amit/).
-- Wrote supplementary course material and held weekly lab sessions.
+<!-- `03/2019 - 06/2019` -->
+<!-- **Machine Learning and Large Scale Data Analysis**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA -->
+<!-- - With Prof. [Yali Amit](https://stat.uchicago.edu/people/profile/yali-amit/). -->
+<!-- - Wrote supplementary course material and held weekly lab sessions. -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
 
-*Selected review*: "Ben was incredibly patient during office hours and always responsive to
-student questions. In addition, he often presented demos during office hours or showed easier ways
-to handle the homework assignments; both were very helpful."
-- More reviews available at [benjamindkilleen.com/teaching/2019-spring-lsda](https://benjamindkilleen.com/teaching/2019-spring-lsda)
 
 ### Grading
 
-`01/2019 - 08/2019`
-*Department of Computer Science, University of Chicago*, Chicago, IL, USA
-- \- **Scientific Visualization**
-- \- **Introduction to Computer Science I**
-- \- **Introduction to Computer Science II**
+<!-- `01/2019 - 08/2019` -->
+<!-- *Department of Computer Science, University of Chicago*, Chicago, IL, USA -->
+<!-- - \- **Scientific Visualization** -->
+<!-- - \- **Introduction to Computer Science I** -->
+<!-- - \- **Introduction to Computer Science II** -->
 
-### Tutoring
 
-`06/2020 - present`
-**Topics in Computer Science, Machine Learning**, Baltimore, MD, USA.
-- I tutor young people (middle- and high-school age) who are interested in CS and ML.
-- More info at [benjamindkilleen.com/teaching/2020-tutoring](benjamindkilleen.com/teaching/2020-tutoring).
+<!-- ## Supervision -->
 
-## Supervision
+<!-- `01/2021 - present` -->
+<!-- - **Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA. -->
 
-`01/2021 - present`
-- **Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
+<!-- `08/2020 - present` -->
+<!-- - **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA. -->
 
-`08/2020 - present`
-- **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
+<!-- `12/2019 - 03/2020` -->
+<!-- - **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA. -->
 
-`12/2019 - 03/2020`
-- **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
+<!-- ## Service -->
 
-## Service
+<!-- `2020 - present` -->
+<!-- **Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA. -->
 
-`2020 - present`
-**Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA.
+<!-- `2019` -->
+<!-- **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA. -->
 
-`2019`
-**Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA.
+<!-- ### Peer Review -->
 
-### Peer Review
+<!-- `2021` -->
+<!-- <\!-- - \- IEEE International Conference on Computer Vision (ICCV) -\-> -->
+<!-- - \- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) -->
 
-`2021`
-<!-- - \- IEEE International Conference on Computer Vision (ICCV) -->
-- \- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-
-`2020`
-- \- Nature Scientific Data
+<!-- `2020` -->
+<!-- - \- Nature Scientific Data -->
 
 ## Selected Coursework
 
-### Graduate
+<!-- ### Graduate -->
 
-- Vision as Bayesian Inference
-- Reliable Software Systems
-- Theory of Computation
-- Parallel Programming
-- Nonlinear Optimization II
-- Computer Integrated Surgery II
-- Computer Integrated Surgery I 
-- Deep Learning
+<!-- - Vision as Bayesian Inference -->
+<!-- - Reliable Software Systems -->
+<!-- - Theory of Computation -->
+<!-- - Parallel Programming -->
+<!-- - Nonlinear Optimization II -->
+<!-- - Computer Integrated Surgery II -->
+<!-- - Computer Integrated Surgery I  -->
+<!-- - Deep Learning -->
 
-### Undergraduate
+<!-- ### Undergraduate -->
 
-`GPA: 3.81`
-- Unsupervised Learning\*
-- Computer Vision
-- Machine Learning and Large Scale Data Analysis
-- Operating Systems
-- Honors Combinatorics
-- Honors Algorithms
-- Honors Discrete Mathematics
-- Scientific Visualization
-- Programming Languages
-- Networks and Distributed Systems
-- Quantum Mechanics I \& II
-- Intermediate Mechanics
-- Electronics
-- [Wizards](https://benjamindkilleen.com/posts/2020/10/how-to-hold-office-hours/)
+<!-- `GPA: 3.81` -->
+<!-- - Unsupervised Learning\* -->
+<!-- - Computer Vision -->
+<!-- - Machine Learning and Large Scale Data Analysis -->
+<!-- - Operating Systems -->
+<!-- - Honors Combinatorics -->
+<!-- - Honors Algorithms -->
+<!-- - Honors Discrete Mathematics -->
+<!-- - Scientific Visualization -->
+<!-- - Programming Languages -->
+<!-- - Networks and Distributed Systems -->
+<!-- - Quantum Mechanics I \& II -->
+<!-- - Intermediate Mechanics -->
+<!-- - Electronics -->
+<!-- - [Wizards](https://benjamindkilleen.com/posts/2020/10/how-to-hold-office-hours/) -->
 
-\*Graduate level.
+<!-- \*Graduate level. -->
 
 <!-- ## Projects -->
 
-## Memberships
+<!-- ## Memberships -->
 
-`2020 - present`
-- IEEE Graduate Student Member
+<!-- `2020 - present` -->
+<!-- - IEEE Graduate Student Member -->
 
 ## Extracurricular
 
-In my spare time, I enjoy running, climbing, cycling, and making visual art. I also write
-creatively:
-
-- **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
-- **Science Fiction**: manuscript by request.
+I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://sarahmarielarson.com/artwork)
 
 ## Metadata
 
 This document is available
-- \- online: [benjamindkilleen.com/markdown-cv](https://benjamindkilleen.com/markdown-cv/).
-- \- as a PDF: [benjamindkilleen.com/files/cv.pdf](https://benjamindkilleen.com/files/cv.pdf).
+- \- online: [sarahmarielarson.com/smlarson-cv](https://sarahmarielarson.com/smlarson-cv/).
+- \- as a PDF: [sarahmarielarson.com/files/smlarson-cv.pdf](https://sarahmarielarson.com/files/smlarson-cv.pdf).
 
 Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
