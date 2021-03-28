@@ -24,7 +24,7 @@ Los Angeles, CA 90095, USA<br/>
 
 ## Summary
 
-MD-PhD student, the David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
+MD-PhD student at the David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
 
 
 ## Education
