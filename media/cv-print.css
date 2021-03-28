@@ -136,8 +136,8 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	/* color: #a00; */
-	color: #2a47b8;
+	color: #a00;
+	/* color: #2a47b8; */
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
