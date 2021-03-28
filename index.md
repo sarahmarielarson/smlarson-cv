@@ -262,7 +262,7 @@ Hopkins University Hub. The Johns Hopkins University, October
 - Analysis of Collective Decision-Making
 - Econometrics
 - Biochemistry
-- Hisotry of Science
+- History of Science
 - History of Medicine
 - History of Statistics
 <!-- - Scientific Visualization -->
