@@ -74,8 +74,8 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #2a47b8;
-	/* color: #ccc; */
+	/* color: #2a47b8; */
+	color: #ccc;
 }
 
 p code {
@@ -136,7 +136,8 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	/* color: #a00; */
+	color: #2a47b8;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
