@@ -31,18 +31,18 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 
 `Starting June 2021`
 **MD-PhD**, 
--*University of California, Los Angeles*, 
--Los Angeles, CA, USA
+- *University of California, Los Angeles*, 
+- Los Angeles, CA, USA
 
 `Sept 2020 - Present`
 **MSc Health and International Development**, 
--*London School of Economics and Political Science*, 
--London, UK
+- *London School of Economics and Political Science*, 
+- London, UK
 
 `Sept 2014 - June 2018`
 **BA Economics and History Double Major with Honors, Statistics Minor**, 
--*University of Chicago*, 
--Chicago, IL, USA
+- *University of Chicago*, 
+- Chicago, IL, USA
 
 
 
@@ -51,14 +51,14 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 
 `Sept 2019 - June 2020`
 **Clinical Research Assistant**, 
--*The Stevens Lab, Johns Hopkins University School of Medicine*, 
--Baltimore, MD, USA
+- *The Stevens Lab, Johns Hopkins University School of Medicine*, 
+- Baltimore, MD, USA
 - With [Prof. Robert Stevens](https://www.hopkinsmedicine.org/research/labs/robert-stevens-lab)
 
 `March 2016 - Sept 2016`
 **Economic Research Assistant**, 
--*The Becker Friedman Institute, The University of Chicago*, 
--Chicago, IL, USA
+- *The Becker Friedman Institute, The University of Chicago*, 
+- Chicago, IL, USA
 - With [Prof. John List](https://voices.uchicago.edu/jlist/)
 
 
@@ -72,26 +72,26 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 
 `Oct 2020 - March 2021`
 **Student Consultant**, 
--*Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, 
--New York, NY, USA
+- *Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, 
+- New York, NY, USA
 - With [Prof. Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone)
 
 ` July 2018 - June 2019`
 **Research Associate**, 
--*Research Division, Federal Reserve Bank*, 
--Minneapolis, MN, USA
+- *Research Division, Federal Reserve Bank*, 
+- Minneapolis, MN, USA
 - With [Dr. Thomas D. Tallarini](https://www.minneapolisfed.org/people/thomas-d-tallarini)
 
 `July 2017 - Sept 2017`
 **Research Intern**, 
--*UChicago Urban Labs*, 
--New York, NY, USA
+- *UChicago Urban Labs*, 
+- New York, NY, USA
 - With [Dr. Aaron Chhalfin](http://achalfin.weebly.com/)
 
 `June 2017 - July 2017`
 **Editorial Intern**, 
--*HarperCollins Publishers*, 
--New York, NY, USA
+- *HarperCollins Publishers*, 
+- New York, NY, USA
 
 <!--
 ## Selected Honors
@@ -192,13 +192,13 @@ Hopkins University Hub. The Johns Hopkins University, October
 -->
 <!-- Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel -->
 
-### Assistant Teaching
+## Assistant Teaching
 
 `March 2017 - June 2017`
  **Introductory Economics**, 
- -*Department of Economics, University of Chicago*, 
- -Chicago, IL, USA
- -With Prof. [Steven Levitt](https://voices.uchicago.edu/levitt/) and Prof. [John List](https://voices.uchicago.edu/jlist/)
+ - *Department of Economics, University of Chicago*, 
+ - Chicago, IL, USA
+ - With Prof. [Steven Levitt](https://voices.uchicago.edu/levitt/) and Prof. [John List](https://voices.uchicago.edu/jlist/)
 <!-- - Wrote supplementary course material and held weekly lab sessions. -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
@@ -286,7 +286,7 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://sarahmarielarson.com/artwork) -->
 
-<!--## Metadata
+## Metadata
 
 This document is available
 - \- online: [sarahmarielarson.com/smlarson-cv](https://sarahmarielarson.com/smlarson-cv/).
