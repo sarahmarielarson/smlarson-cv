@@ -4,22 +4,22 @@ title: Sarah M. Larson's CV
 ---
 # Sarah M. Larson
 <br/>
-MD-PhD Student at The University of California, Los Angeles
+MD-PhD Student 
 
-David Geffen School of Medicine at UCLA<br/>
+David Geffen School of Medicine at The University of California, Los Angeles<br/>
 10833 Le Conte Avenue<br/>
 Los Angeles, CA 90095, USA<br/>
 
 <a href="mailto:s.m.larson@lse.ac.uk">s.m.larson@lse.ac.uk</a>
 
 <div id="webaddress">
-  <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a> -   
+  <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a>  
   <!-- <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> - -->
   <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> -->
   <!-- <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> - -->
   <!-- <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> -  -->
-  <!-- <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a> -->
-  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0461-8938</a></div>
+  <a href="https://twitter.com/sarahmarlarson"><i class="fab fa-twitter"></i> @sarahmarlarson</a>
+  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> 0000-0002-0461-8938</a></div>
 </div>
 
 ## Summary
@@ -30,13 +30,19 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 ## Education
 
 `Starting June 2021`
-**MD-PhD**, *University of California, Los Angeles*, Los Angeles, CA, USA
+**MD-PhD**, 
+-*University of California, Los Angeles*, 
+-Los Angeles, CA, USA
 
 `Sept 2020 - Present`
-**MSc Health and International Development**, *London School of Economics and Political Science*, London, UK
+**MSc Health and International Development**, 
+-*London School of Economics and Political Science*, 
+-London, UK
 
 `Sept 2014 - June 2018`
-**BA Economics and History Double Major with Honors, Statistics Minor**, *University of Chicago*, Chicago, IL, USA
+**BA Economics and History Double Major with Honors, Statistics Minor**, 
+-*University of Chicago*, 
+-Chicago, IL, USA
 
 
 
@@ -44,15 +50,18 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 ## Research Experience
 
 `Sept 2019 - June 2020`
-**Clinical Research Assistant**, *The Stevens Lab, Johns Hopkins University School of Medicine*, Baltimore, MD, USA.
-- With Professor [Robert Stevens](https://www.hopkinsmedicine.org/research/labs/robert-stevens-lab)
+**Clinical Research Assistant**, 
+-*The Stevens Lab, Johns Hopkins University School of Medicine*, 
+-Baltimore, MD, USA
+- With [Prof. Robert Stevens](https://www.hopkinsmedicine.org/research/labs/robert-stevens-lab)
 
 `March 2016 - Sept 2016`
-**Economic Research Assistant**, *The Becker Friedman Institute, The University of Chicago*, Chicago, IL, USA.
-- With Professor [John List](https://voices.uchicago.edu/jlist/)
+**Economic Research Assistant**, 
+-*The Becker Friedman Institute, The University of Chicago*, 
+-Chicago, IL, USA
+- With [Prof. John List](https://voices.uchicago.edu/jlist/)
 
 
- -->
 
 <!-- - Investigated object detection in image-based experiments for condensed matter physics. -->
 <!--   - Honors Thesis: "Starting from Scratch: Deep Learning for Novel Scientific Image Analysis" -->
@@ -62,19 +71,27 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 ## Professional Experience
 
 `Oct 2020 - March 2021`
-**Student Consultant**, *Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, New York, NY, USA
-- With Dr. [Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone)
+**Student Consultant**, 
+-*Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, 
+-New York, NY, USA
+- With [Prof. Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone)
 
 ` July 2018 - June 2019`
-**Research Associate**, *Research Division, Federal Reserve Bank*, Minneapolis, MN, USA
-- With Dr. [Thomas D. Tallarini](https://www.minneapolisfed.org/people/thomas-d-tallarini)
+**Research Associate**, 
+-*Research Division, Federal Reserve Bank*, 
+-Minneapolis, MN, USA
+- With [Dr. Thomas D. Tallarini](https://www.minneapolisfed.org/people/thomas-d-tallarini)
 
 `July 2017 - Sept 2017`
-**Research Intern**, *UChicago Urban Labs*, New York, NY, USA
-- With Dr. [Aaron Chhalfin](http://achalfin.weebly.com/)
+**Research Intern**, 
+-*UChicago Urban Labs*, 
+-New York, NY, USA
+- With [Dr. Aaron Chhalfin](http://achalfin.weebly.com/)
 
 `June 2017 - July 2017`
-**Editorial Intern**, *HarperCollins Publishers*, New York, NY, USA
+**Editorial Intern**, 
+-*HarperCollins Publishers*, 
+-New York, NY, USA
 
 <!--
 ## Selected Honors
@@ -178,8 +195,10 @@ Hopkins University Hub. The Johns Hopkins University, October
 ### Assistant Teaching
 
 `March 2017 - June 2017`
- **Introductory Economics**, *Department of Economics, University of Chicago*, Chicago, IL, USA
-With Prof. [Steven Levitt](https://voices.uchicago.edu/levitt/) and Prof. [John List](https://voices.uchicago.edu/jlist/)
+ **Introductory Economics**, 
+ -*Department of Economics, University of Chicago*, 
+ -Chicago, IL, USA
+ -With Prof. [Steven Levitt](https://voices.uchicago.edu/levitt/) and Prof. [John List](https://voices.uchicago.edu/jlist/)
 <!-- - Wrote supplementary course material and held weekly lab sessions. -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
