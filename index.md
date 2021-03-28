@@ -4,7 +4,7 @@ title: Sarah M. Larson's CV
 ---
 # Sarah M. Larson
 <br/>
-Incoming MD-PhD Student at The University of California, Los Angeles
+MD-PhD Student at The University of California, Los Angeles
 
 David Geffen School of Medicine at UCLA<br/>
 10833 Le Conte Avenue<br/>
@@ -24,12 +24,12 @@ Los Angeles, CA 90095, USA<br/>
 
 ## Summary
 
-Incoming MD-PhD student, the David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
-Current MSc student, the London School of Economics and Political Science, Department of International Development
+MD-PhD student, the David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
+
 
 ## Education
 
-`Matriculating June 2021`
+`Starting June 2021`
 **MD-PhD**, *University of California, Los Angeles*, Los Angeles, CA, USA
 
 `Sept 2020 - Present`
