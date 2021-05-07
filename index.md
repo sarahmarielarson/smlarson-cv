@@ -2,9 +2,13 @@
 layout: cv
 title: Sarah M. Larson's CV
 ---
+
+<!-- Run "jekyll serve" in the terminal to host website. -->
+<!-- Then in the browser go to http://  127.0.0.1:4000 -->
+
 # Sarah M. Larson
 <br/>
-MD-PhD Student 
+Incoming MD-PhD Student
 
 David Geffen School of Medicine at The University of California, Los Angeles<br/>
 10833 Le Conte Avenue<br/>
@@ -13,18 +17,22 @@ Los Angeles, CA 90095, USA<br/>
 <a href="mailto:s.m.larson@lse.ac.uk">s.m.larson@lse.ac.uk</a>
 
 <div id="webaddress">
-  <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a>  
+  <!-- <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a>   -->
+  <a href="https://sarahmarielarson.github.io/smlarson-cv"><i class="fas fa-home"></i> sarahmarielarson.github.io</a>  
+
   <!-- <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> - -->
   <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> -->
-  <!-- <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> - -->
-  <!-- <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> -  -->
+  <a href="https://scholar.google.com/citations?user=Kdp4a7oAAAAJ&hl=en&oi=sra"><i class="fas fa-graduation-cap"></i> Sarah Larson</a> 
+  <a href="https://orcid.org/0000-0002-0461-8938"><i class="ai ai-orcid"></i> 0000-0002-0461-8938</a>   
+  <a href="https://www.linkedin.com/in/sarah-larson-024161111/"><i class="fab fa-linkedin"></i> LinkedIn</a>  
   <a href="https://twitter.com/sarahmarlarson"><i class="fab fa-twitter"></i> @sarahmarlarson</a>
-  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> 0000-0002-0461-8938</a></div>
+  <!--
+  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> 0000-0002-0461-8938</a></div>-->
 </div>
 
 ## Summary
 
-MD-PhD student at The David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track)
+Current MSc student at the London School of Economics. Incoming MD-PhD student at The David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track).
 
 
 ## Education
@@ -72,11 +80,11 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 
 `Oct 2020 - March 2021`
 **Student Consultant**, 
-- *Collaborative on Use of Administrative Data for Statistics, United Nations Statistics Division*, 
+- *Use of Administrative Data for Statistics, United Nations Statistics Division*, 
 - New York, NY, USA
-- With [Prof. Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone)
+- With [Prof. Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone) and Vibeke Oestreich Nielsen
 
-` July 2018 - June 2019`
+`July 2018 - June 2019`
 **Research Associate**, 
 - *Research Division, Federal Reserve Bank*, 
 - Minneapolis, MN, USA
@@ -113,20 +121,23 @@ MD-PhD student at The David Geffen School of Medicine at the University of Calif
 
   -->
 
-<!--
 ## Publications
-<!--
+
 My publication list is also available on [Google
-Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). Asterisk (\*) indicates equal
+Scholar](https://scholar.google.com/citations?user=Kdp4a7oAAAAJ&hl=en&oi=sra). Asterisk (\*) indicates equal
 contribution.
+
 
 ### Peer-reviewed Journal Articles
 
 `J-1` 
+van Steenkiste, J., **Larson, S.**\*, Ista, E. et al. Impact of structured care systems on mortality in intensive care units. Intensive Care Med (2021). https://doi.org/10.1007/s00134-021-06383-5
+
+<!-- `J-1` 
 J. van, **S. Larson**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
 Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and
 Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi:
-[10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
+[10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448). -->
 
 
 <!--
@@ -226,8 +237,17 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 ## Service
 
-<!-- `2020 - present` -->
-<!-- **Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA. -->
+`2018 - 2019`
+**Pediatric volunteer**, [*UMN Masonic Children's Hospital*](https://www.mhealth.org/childrens), Minneapolis, MN, USA
+
+`2017 - 2018`
+**Journal editor**, [*Chicago Journal of History*](https://cjh.uchicago.edu/), Chicago, IL, USA
+
+`2017 - 2018`
+**Student representative**, *UChicago College Area Disciplinary Committee*, Chicago, IL, USA
+
+`2014 - 2016`
+**Health educator**, [*Chicago Peer Health Exchange*](https://www.peerhealthexchange.org/communities/chicago), Chicago, IL, USA
 
 <!-- `2019` -->
 <!-- **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA. -->
@@ -288,9 +308,8 @@ I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://s
 
 ## Metadata
 
-This document is available
-- \- online: [sarahmarielarson.com/smlarson-cv](https://sarahmarielarson.com/smlarson-cv/).
-- \- as a PDF: [sarahmarielarson.com/files/smlarson-cv.pdf](https://sarahmarielarson.com/files/smlarson-cv.pdf).
+This document is available online at [sarahmarielarson.github.io/smlarson-cv](https://sarahmarielarson.github.io/smlarson-cv/).
+<!-- - \- as a PDF: [sarahmarielarson.com/files/smlarson-cv.pdf](https://sarahmarielarson.com/files/smlarson-cv.pdf). -->
 
 Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
