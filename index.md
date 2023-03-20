@@ -212,7 +212,7 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 ## Assistant Teaching
 
-`March 2017 - June 2017`
+`Jan 2017 - June 2017`
  **Introductory Economics**, 
  - *Department of Economics, University of Chicago*, 
  - Chicago, IL, USA
@@ -247,13 +247,13 @@ Hopkins University Hub. The Johns Hopkins University, October
 `2018 - 2019`
 **Pediatric volunteer**, [*UMN Masonic Children's Hospital*](https://www.mhealth.org/childrens), Minneapolis, MN, USA
 
-`2017 - 2018`
+`2016 - 2018`
 **Journal editor**, [*Chicago Journal of History*](https://cjh.uchicago.edu/), Chicago, IL, USA
 
 `2017 - 2018`
 **Student representative**, *UChicago College Area Disciplinary Committee*, Chicago, IL, USA
 
-`2014 - 2016`
+`2014 - 2017`
 **Health educator**, [*Chicago Peer Health Exchange*](https://www.peerhealthexchange.org/communities/chicago), Chicago, IL, USA
 
 <!-- `2019` -->
