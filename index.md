@@ -4,46 +4,49 @@ title: Sarah M. Larson's CV
 ---
 
 <!-- Run "jekyll serve" in the terminal to host website. -->
-<!-- Then in the browser go to http://  127.0.0.1:4000 -->
+<!-- Then in the browser go to http://127.0.0.1:4000 -->
 
 # Sarah M. Larson
 <br/>
-Incoming MD-PhD Student
+MSTP Student
 
 David Geffen School of Medicine at The University of California, Los Angeles<br/>
 10833 Le Conte Avenue<br/>
 Los Angeles, CA 90095, USA<br/>
 
-<a href="mailto:s.m.larson@lse.ac.uk">s.m.larson@lse.ac.uk</a>
+<a href="mailto:smlarson@mednet.ucla.edu">smlarson@mednet.ucla.edu</a>
 
+ 
 <div id="webaddress">
   <!-- <a href="https://sarahmarielarson.com"><i class="fas fa-home"></i> sarahmarielarson.com</a>   -->
-  <a href="https://sarahmarielarson.github.io/smlarson-cv"><i class="fas fa-home"></i> sarahmarielarson.github.io</a>  
-
+    <!-- <a href="https://sarahmarielarson.github.io/smlarson-cv"><i class="fas fa-home"></i> sarahmarielarson.github.io</a>-->
+ 
   <!-- <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> - -->
-  <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> -->
+  <!-- <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/> 
   <a href="https://scholar.google.com/citations?user=Kdp4a7oAAAAJ&hl=en&oi=sra"><i class="fas fa-graduation-cap"></i> Sarah Larson</a> 
   <a href="https://orcid.org/0000-0002-0461-8938"><i class="ai ai-orcid"></i> 0000-0002-0461-8938</a>   
   <a href="https://www.linkedin.com/in/sarah-larson-024161111/"><i class="fab fa-linkedin"></i> LinkedIn</a>  
   <a href="https://twitter.com/sarahmarlarson"><i class="fab fa-twitter"></i> @sarahmarlarson</a>
   <!--
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0461-8938" href="https://orcid.org/0000-0002-0461-8938" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> 0000-0002-0461-8938</a></div>-->
+
 </div>
+
 
 ## Summary
 
-Current MSc student at the London School of Economics. Incoming MD-PhD student at The David Geffen School of Medicine at the University of California, Los Angeles (MSTP Social Sciences Track).
+MS2 in the MSTP Social Sciences Track at the David Geffen School of Medicine at the University of California, Los Angeles
 
 
 ## Education
 
-`Starting June 2021`
-**MD-PhD**, 
+`June 2021 - present`
+**MD-PhD Student**, 
 - *University of California, Los Angeles*, 
 - Los Angeles, CA, USA
 
-`Sept 2020 - Present`
-**MSc Health and International Development**, 
+`Sept 2020 - Aug 2021`
+**MSc Health and International Development (Population Health Specialism) with Merit**, 
 - *London School of Economics and Political Science*, 
 - London, UK
 
@@ -79,7 +82,7 @@ Current MSc student at the London School of Economics. Incoming MD-PhD student a
 ## Professional Experience
 
 `Oct 2020 - March 2021`
-**Student Consultant**, 
+**Graduate Student Consultant**, 
 - *Use of Administrative Data for Statistics, United Nations Statistics Division*, 
 - New York, NY, USA
 - With [Prof. Tiziana Leone](https://www.lse.ac.uk/international-development/people/tiziana-leone) and Vibeke Oestreich Nielsen
@@ -121,14 +124,16 @@ Current MSc student at the London School of Economics. Incoming MD-PhD student a
 
   -->
 
+<!--
 ## Publications
 
 My publication list is also available on [Google
 Scholar](https://scholar.google.com/citations?user=Kdp4a7oAAAAJ&hl=en&oi=sra). Asterisk (\*) indicates equal
 contribution.
+-->
 
 
-### Peer-reviewed Journal Articles
+## Peer-reviewed Journal Articles
 
 `J-1` 
 van Steenkiste, J., **Larson, S.**\*, Ista, E. et al. Impact of structured care systems on mortality in intensive care units. Intensive Care Med (2021). https://doi.org/10.1007/s00134-021-06383-5
@@ -281,10 +286,9 @@ Hopkins University Hub. The Johns Hopkins University, October
 - Analysis of Categorical Data
 - Analysis of Collective Decision-Making
 - Econometrics
-- Biochemistry
-- History of Science
+- Computer Science with Applications
+- Health Economics and Policy
 - History of Medicine
-- History of Statistics
 <!-- - Scientific Visualization -->
 <!-- - Programming Languages -->
 <!-- - Networks and Distributed Systems -->
@@ -317,5 +321,5 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: March 2021<br/><br/>
+<br/>Last updated: March 2023<br/><br/>
 
