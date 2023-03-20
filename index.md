@@ -46,12 +46,14 @@ MS2 in the MSTP Social Sciences Track at the David Geffen School of Medicine at 
 - Los Angeles, CA, USA
 
 `Sept 2020 - Aug 2021`
-**MSc Health and International Development (Population Health Specialism) with Merit**, 
+**MSc Health and International Development**, 
+- **Population Health Specialism, with Merit**
 - *London School of Economics and Political Science*, 
 - London, UK
 
 `Sept 2014 - June 2018`
-**BA Economics and History Double Major with Honors, Statistics Minor**, 
+**BA Economics and History Double Major**, 
+- **Statistics Minor, with Honors**
 - *University of Chicago*, 
 - Chicago, IL, USA
 
@@ -315,11 +317,12 @@ I am also an artist! Check out my work: [sarahmarielarson.com/artwork](https://s
 This document is available online at [sarahmarielarson.github.io/smlarson-cv](https://sarahmarielarson.github.io/smlarson-cv/).
 <!-- - \- as a PDF: [sarahmarielarson.com/files/smlarson-cv.pdf](https://sarahmarielarson.com/files/smlarson-cv.pdf). -->
 
+<!--
 Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 [Eliseo Papa](https://elipapa.github.io/) with styles based on
 [David Whipp](https://davewhipp.github.io).  
 
 [MIT License](https://opensource.org/licenses/MIT).
-
+-->
 <br/>Last updated: March 2023<br/><br/>
 
